@@ -1,4 +1,4 @@
 ---
-title: Took github-pages coourse
+title: "Took github-pages coourse"
 date: 2020-10-28
 ---
